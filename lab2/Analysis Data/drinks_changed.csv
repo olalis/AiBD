@@ -1,4 +1,4 @@
-,country,beer_servings,spirit_servings,wine_servings,total_litres_of_pure_alcohol
+,Country,Beer [cans/person],Spirit [shots/person],Wine [glasses/person],Total litres of pure alcohol per person
 0,Afghanistan,0,0,0,0.0
 1,Albania,89,132,54,4.9
 2,Algeria,25,0,14,0.7
